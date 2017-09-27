@@ -1,0 +1,35 @@
+<article>
+  <header>
+    <h2>Projects</h2>
+  </header>
+
+  <h3>FlexNIC: Rethinking NIC Architecture</h3>
+  <p>We explore how to accelerate network I/O for applications and
+  operating systems by allowing software to exert more control over
+  packet processing in the NIC and how packets are transferred to and from
+  memory. To that end we are leveraging multi-stage match and action
+  processing, similar to next-generation data center switches, to program
+  the NIC and DMA controller.</p>
+
+  <h3>Tackling NIC Complexity with Modeling</h3>
+  <p>With the goal of effectively exploiting NIC hardware, we started out
+  showing that performance characteristics of hardware features are
+  non-trivial. Our approach is to use a common model for specifying
+  both the logical protocol processing and the hardware, and then
+  algorithmically combining these models, taking a policy dictating
+  optimization goals into account, to arrive at a configuration for
+  the hardware and a corresponding software protocol stack. My
+  <a href="documents/msc_thesis_a4.pdf">master's thesis</a> was also based
+  on this project.</p>
+
+  <h3>Low-latency Network Architecture</h3>
+  <p>This project started off as my <a href="documents/bsc_thesis_a4.pdf">
+  bachelor's thesis</a> with the goal of reducing communication latency
+  with an off-the-shelf Ethernet 10G NIC to a minimum and quantifying
+  where the time is spent.  The main steps involved were optimizing the
+  software architecture (network stack in Barrelfish) to low-latency
+  communication, and using hardware features such as hardware
+  demultiplexing to reduce the latency. Furthermore we worked on analyzing
+  the impact of different configuration parameters such as NUMA location
+  of the buffers, or core locations of the driver and applications.</p>
+</article>

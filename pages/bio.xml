@@ -1,0 +1,61 @@
+<article>
+  <header>
+    <h2>Biography</h2>
+  </header>
+  <p>Before starting at UW I was a master's student in the computer
+  science department at ETH Zürich until September 2014. I was being
+  mentored by
+  <a href="http://people.inf.ethz.ch/troscoe/">Timothy Roscoe</a>.
+  The research I was involved in was being done in the context of the
+  <a href="http://www.barrelfish.org">Barrelfish</a>
+  research OS together with other members of the ETH
+  <a href="http://www.systems.ethz.ch">Systems Group</a>.</p>
+
+  <p>I completed my bachelors degree in computer science at ETH Zürich in
+  2012 after three years. For more details see my
+  <a href="cv.pdf">CV</a>.</p>
+
+
+  <h3>Personal</h3>
+  <p>My <a href="https://masteringenglishlearning.com">wife</a> teaches
+  English as a second language. We have two cats: Scotch &amp; Whisky.</p>
+
+
+  <h3>Teaching</h3>
+  Teaching assistant for
+  <ul>
+      <li>CSEP 551, Computer Operating Systems, UW,
+      <i>Winter 2017</i>.
+      <a href="https://courses.cs.washington.edu/courses/csep551/17wi/">
+      [course]</a></li>
+
+      <li>CSE 451, Introduction to Operating Systems, UW,
+      <i>Spring 2016</i>.
+      <a href="https://courses.cs.washington.edu/courses/cse451/16sp/">
+      [course]</a></li>
+
+      <li>Systems Programming and Computer Architecture, ETH Zurich,
+      <i>Fall 2012</i>.
+      <a href="http://www.systems.ethz.ch/courses/fall2012/SPCA">
+      [course]</a></li>
+
+      <li>Operating Systems and Networks, ETH Zurich,
+      <i>Spring 2012</i>.
+      <a href="http://archive.systems.ethz.ch/www.systems.ethz.ch/education/spring-2012/os_networks.html">
+      [course]</a></li>
+  </ul>
+
+  <h3>Collaborators</h3>
+  <ul>
+    <li><a href="http://www.cs.washington.edu/people/faculty/tom">Tom Anderson</a>
+      </li>
+    <li><a href="http://www.cs.washington.edu/people/faculty/arvind">Arvind Krishnamurthy</a>
+      </li>
+    <li><a href="https://www.cs.utexas.edu/~simon/">Simon Peter</a>
+      (UT Austin)</li>
+    <li><a href="http://homes.cs.washington.edu/~naveenks/">Naveen Kr. Sharma</a>
+      </li>
+    <li>Tim Stamler (UT Austin)</li>
+    <li><a href="https://homes.cs.washington.edu/~xi/">Xi Wang</a></li>
+  </ul>
+</article>

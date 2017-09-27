@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Antoine Kaufmann -- Blog</title>
+  <link href="https://homes.cs.washington.edu/~antoinek/atom.xml" rel="self" />
+  <link href="https://homes.cs.washington.edu/~antoinek/" />
+  <updated data-sblg-updated="1" />
+  <id data-sblg-id="1" />
+  <entry data-sblg-entry="1" />
+  <entry data-sblg-entry="1" />
+  <entry data-sblg-entry="1" />
+  <entry data-sblg-entry="1" />
+  <entry data-sblg-entry="1" />
+  <entry data-sblg-entry="1" />
+  <entry data-sblg-entry="1" />
+  <entry data-sblg-entry="1" />
+  <entry data-sblg-entry="1" />
+</feed>
+

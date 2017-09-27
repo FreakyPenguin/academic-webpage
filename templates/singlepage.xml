@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Antoine Kaufmann</title>
+    <meta name="author" content="Antoine Kaufmann" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <style type="text/css" media="all"><!--
+CSS_PLACEHOLDER
+    --></style>
+</head>
+<body>
+  <header><h1>Antoine Kaufmann</h1></header>
+  <nav id="toplevel">
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="blog.html">Blog</a></li>
+      <li><a href="projects.html">Projects</a></li>
+      <li><a href="publications.html">Publications</a></li>
+      <li><a href="bio.html">Biography</a></li>
+    </ul>
+  </nav>
+
+<div id="content">
+<section id="innercontent">
+  <article data-sblg-article="1" />
+</section>
+</div>
+
+<footer>
+    <hr />
+    University of Washington &#8212; Computer Science &amp; Engineering
+    <br />
+    Box 352350 &#8212; Seattle &#8212; WA 98195-2350 &#8212; USA
+</footer>
+
+</body>
+</html>

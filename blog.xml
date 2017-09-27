@@ -1,0 +1,12 @@
+<article>
+    <h2>Blog</h2>
+    <nav data-sblg-nav="1" data-sblg-navcontent="1">
+      <div>
+        <time datetime="${sblg-datetime}">${sblg-datetime-fmt}</time>:
+        <a href="${sblg-base}.html">${sblg-titletext}</a>
+      </div>
+      <div>
+        ${sblg-aside}
+      </div>
+    </nav>
+</article>

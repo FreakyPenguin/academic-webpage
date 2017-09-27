@@ -1,0 +1,27 @@
+<article>
+    <div id="portrait">
+        <img src="images/square.png" alt="Antoine Kaufmann" />
+    </div>
+    <div id="intro">
+        <p>I am currently a PhD student in the
+        <a href="http://syslab.cs.washington.edu">systems lab</a> of the
+        <a href="http://cs.washington.edu">
+            Computer Science and Engineering</a> department at the University of
+        Washington with
+        <a href="http://www.cs.washington.edu/people/faculty/tom/">
+        Tom Anderson</a> as my advisor.
+        In addition I am collaborating closely with
+        <a href="http://www.cs.utexas.edu/~simon/">Simon Peter</a> and
+        <a href="http://www.cs.washington.edu/people/faculty/arvind">
+        Arvind Krishnamurthy</a>.
+        My research interests lie in the general area of operating systems, and
+        I am currently working on end-host network performance.
+        </p>
+    </div>
+    <div style="clear: both"></div>
+
+    <h2>News</h2>
+
+    <h2>Blog</h2>
+    <nav data-sblg-nav="1" />
+</article>
