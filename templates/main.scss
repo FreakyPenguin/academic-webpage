@@ -1,28 +1,120 @@
+@import 'normalize';
+@import 'academicons';
+
+$width: 650px;
+$narrow-cutoff: $width;
+
+/******************************************************************************/
+/* Layout */
+
+* {
+  box-sizing: border-box;
+}
+
 html, body {
-    width: 100%;
-    font-family: "Trebuchet MS", Helvetica, sans-serif;
-    font-size: 10pt;
-    line-height: 15pt;
     margin: 0px;
     padding: 0px;
 }
 
-body {
-    padding-top: 1em;
-    padding-bottom: 1em;
+main, header.toplevel, nav.toplevel, footer.toplevel {
+  width: $width;
+  margin: 0px auto;
+  padding: 10px;
+}
+
+header.toplevel {
+  text-align: center;
+  margin-top: 50px;
+
+  h1 {
+    padding: 0px;
+    margin: 5px 0px;
+  }
+}
+
+nav.toplevel {
+  padding: 5px 0px;
+  text-align: center;
+
+  ul {
+    padding: 0px;
+    margin: 0px;
+  }
+  li {
+    display: inline;
+    padding: 0px 15px;
+  }
+}
+
+footer.toplevel {
+  text-align: center;
+}
+
+/**************************************/
+/* Mobile layout */
+@media (max-width: $narrow-cutoff) {
+  main, header.toplevel, nav.toplevel, footer.toplevel {
+    width: 100%;
+    margin: 0px;
+  }
+
+  header.toplevel {
+    margin-top: 10px;
+  }
+
+  nav.toplevel {
+    li {
+      display: block;
+      width: 100%;
+      padding-top: 5px;
+      padding-bottom: 5px;
+    }
+  }
+}
+
+/******************************************************************************/
+/* Design */
+
+$lines: 1px #888 solid;
+
+html, body {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 11pt;
+    line-height: 18pt;
 }
 
 a {
     color: #3873b2;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 a:hover {
     text-decoration: underline;
 }
 
+nav.toplevel {
+  border-top: $lines;
+  border-bottom: $lines;
 
-h1, h2, h3 {
+  a {
+    font-size: 110%;
+    text-decoration: none;
+  }
+}
+
+footer.toplevel {
+  border-top: $lines;
+
+  a.icon {
+    font-size: 120%;
+    text-decoration: none;
+    padding: 0px 10px;
+  }
+}
+
+
+
+/*h1, h2, h3 {
     padding: 0px;
     margin: 0px;
     line-height: 100%;
@@ -123,4 +215,4 @@ ul {
         max-width: 240px;
         width: 100%;
     }
-  }
+  }*/

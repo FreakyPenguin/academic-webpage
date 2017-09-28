@@ -1,6 +1,6 @@
 PAGES= index blog projects publications bio
 
-BLOGS= $(basename $(notdir $(wildcard blogs/*.xml)))
+BLOGS= $(basename $(wildcard blogs/*.xml))
 BLOG_PAGES= $(addsuffix .html,$(BLOGS))
 ALL_PAGES= $(addprefix build/out/,$(addsuffix .html,$(PAGES)) $(BLOG_PAGES) \
 	atom.xml)
@@ -14,7 +14,7 @@ clean:
 	rm -rf build
 
 deploy-prepare: $(ALL_PAGES)
-	cp -a images documents build/out/
+	cp -a images documents fonts build/out/
 
 build/main.css: templates/main.scss
 	@mkdir -p $(dir $@)
@@ -38,7 +38,7 @@ build/out/%.html: build/%.intermediate.xml $(addprefix build/out/,$(BLOG_PAGES))
 	@mkdir -p $(dir $@)
 	cd build/out && sblg -t ../../$< -o ../../$@ $(BLOG_PAGES)
 
-build/out/%.html: blogs/%.xml $(TEMPLATE)
+build/out/blogs/%.html: blogs/%.xml $(TEMPLATE)
 	@mkdir -p $(dir $@)
 	sblg -t $(TEMPLATE) -c -o $@ $<
 

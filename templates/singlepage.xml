@@ -1,18 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Antoine Kaufmann</title>
-    <meta name="author" content="Antoine Kaufmann" />
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Antoine Kaufmann</title>
+  <meta name="author" content="Antoine Kaufmann" />
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <style type="text/css" media="all"><!--
+  <style type="text/css" media="all"><!--
 CSS_PLACEHOLDER
     --></style>
+  <script src="https://use.fontawesome.com/df48750cc8.js"></script>
 </head>
+
 <body>
-  <header><h1>Antoine Kaufmann</h1></header>
-  <nav id="toplevel">
+  <header class="toplevel">
+    <h1>Antoine Kaufmann</h1>
+    Ph.D. Student in Computer Science at University of Washington
+  </header>
+
+  <nav class="toplevel" title="Top-level Navigation">
     <ul>
       <li><a href="index.html">Home</a></li>
       <li><a href="blog.html">Blog</a></li>
@@ -22,18 +28,34 @@ CSS_PLACEHOLDER
     </ul>
   </nav>
 
-<div id="content">
-<section id="innercontent">
-  <article data-sblg-article="1" />
-</section>
-</div>
+  <main>
+    <article data-sblg-article="1" />
+  </main>
 
-<footer>
-    <hr />
+  <footer class="toplevel">
+    <a href="https://github.com/FreakyPenguin" aria-label="Github Profile"
+        class="icon">
+      <i class="fa fa-github" aria-hidden="true"></i>
+    </a>
+    <a href="https://scholar.google.com/citations?user=6CyKrCUAAAAJ&amp;hl=en"
+        aria-label="Google Scholar Profile" class="icon">
+      <i class="ai ai-fw ai-google-scholar" aria-hidden="true"></i>
+    </a>
+    <a href="https://www.linkedin.com/in/antoine-kaufmann-95859252/"
+        aria-label="LinkedIn Profile" class="icon">
+      <i class="fa fa-linkedin" aria-hidden="true"></i>
+    </a>
+    <a href="mailto:antoinek@cs.washington.edu" aria-label="Email Address"
+        class="icon">
+      <i class="fa fa-envelope" aria-hidden="true"></i>
+    </a>
+    <a href="atom.xml" aria-label="Atom Feed" class="icon">
+      <i class="fa fa-rss" aria-hidden="true"></i>
+    </a>
+    <br />
     University of Washington &#8212; Computer Science &amp; Engineering
     <br />
     Box 352350 &#8212; Seattle &#8212; WA 98195-2350 &#8212; USA
-</footer>
-
+  </footer>
 </body>
 </html>
