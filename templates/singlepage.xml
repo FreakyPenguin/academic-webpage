@@ -53,9 +53,9 @@ CSS_PLACEHOLDER
       <i class="fa fa-rss" aria-hidden="true"></i>
     </a>
     <br />
-    University of Washington &#8212; Computer Science &amp; Engineering
-    <br />
-    Box 352350 &#8212; Seattle &#8212; WA 98195-2350 &#8212; USA
+    <a href="https://www.washington.edu">University of Washington</a>
+    &#8212;
+    <a href="https://cs.washington.edu">Computer Science &amp; Engineering</a>
   </footer>
 </body>
 </html>

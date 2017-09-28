@@ -1,27 +1,51 @@
 <article>
-    <div id="portrait">
+  <header>
+    <h2>About me</h2>
+  </header>
+
+  <div class="twocol">
+    <div class="twocol-left">
         <img src="images/square.png" alt="Antoine Kaufmann" />
     </div>
-    <div id="intro">
-        <p>I am currently a PhD student in the
-        <a href="http://syslab.cs.washington.edu">systems lab</a> of the
-        <a href="http://cs.washington.edu">
-            Computer Science and Engineering</a> department at the University of
-        Washington with
-        <a href="http://www.cs.washington.edu/people/faculty/tom/">
-        Tom Anderson</a> as my advisor.
-        In addition I am collaborating closely with
-        <a href="http://www.cs.utexas.edu/~simon/">Simon Peter</a> and
-        <a href="http://www.cs.washington.edu/people/faculty/arvind">
-        Arvind Krishnamurthy</a>.
-        My research interests lie in the general area of operating systems, and
-        I am currently working on end-host network performance.
-        </p>
+    <div class="twocol-right">
+      <b>Email:</b> <a href="mailto:antoinek@cs.washington.edu">
+        antoinek@cs.washington.edu</a>
+      <br />
+      <b>Office:</b>
+        <a href="https://www.cs.washington.edu/contact">CSE</a> 591
+      <br />
+      <b>Address:</b>
+        <br />
+        University of Washington
+        <br />
+        Computer Science &amp; Engineering
+        <br />
+        Box 352350
+        <br />
+        Seattle, WA 98195-2350, USA
     </div>
-    <div style="clear: both"></div>
+  </div>
 
-    <h2>News</h2>
+  <div>
+      <p>I am currently a PhD student in the
+      <a href="http://syslab.cs.washington.edu">systems lab</a> of the
+      <a href="http://cs.washington.edu">
+          Computer Science and Engineering</a> department at the University of
+      Washington with
+      <a href="http://www.cs.washington.edu/people/faculty/tom/">
+      Tom Anderson</a> as my advisor.
+      In addition I am collaborating closely with
+      <a href="http://www.cs.utexas.edu/~simon/">Simon Peter</a> and
+      <a href="http://www.cs.washington.edu/people/faculty/arvind">
+      Arvind Krishnamurthy</a>.
+      My research interests lie in the general area of operating systems, and
+      I am currently working on end-host network performance.
+      </p>
+  </div>
+  <div style="clear: both"></div>
 
-    <h2>Blog</h2>
-    <nav data-sblg-nav="1" />
+  <h2>News</h2>
+
+  <h2>Blog</h2>
+  <nav data-sblg-nav="1" />
 </article>

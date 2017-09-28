@@ -50,6 +50,18 @@ footer.toplevel {
   text-align: center;
 }
 
+div.twocol {
+  div.twocol-left {
+    float: left;
+    margin-right: 10px;
+  }
+}
+div.twocol:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 /**************************************/
 /* Mobile layout */
 @media (max-width: $narrow-cutoff) {
