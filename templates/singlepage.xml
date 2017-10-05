@@ -20,11 +20,11 @@ CSS_PLACEHOLDER
 
   <nav class="toplevel" title="Top-level Navigation">
     <ul>
-      <li><a href="index.html">Home</a></li>
-      <li><a href="blog.html">Blog</a></li>
-      <li><a href="projects.html">Projects</a></li>
-      <li><a href="publications.html">Publications</a></li>
-      <li><a href="bio.html">Biography</a></li>
+      <li><a href="https://homes.cs.washington.edu/~antoinek/index.html">Home</a></li>
+      <li><a href="https://homes.cs.washington.edu/~antoinek/blog.html">Blog</a></li>
+      <li><a href="https://homes.cs.washington.edu/~antoinek/projects.html">Projects</a></li>
+      <li><a href="https://homes.cs.washington.edu/~antoinek/publications.html">Publications</a></li>
+      <li><a href="https://homes.cs.washington.edu/~antoinek/bio.html">Biography</a></li>
     </ul>
   </nav>
 
