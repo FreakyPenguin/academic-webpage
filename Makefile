@@ -14,7 +14,7 @@ clean:
 	rm -rf build
 
 deploy-prepare: $(ALL_PAGES)
-	cp -a images documents fonts build/out/
+	cp -a extra/* images documents fonts build/out/
 
 deploy: deploy-prepare
 	rsync --delete -r build/out/ barb:/cse/web/homes/antoinek/new/
