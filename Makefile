@@ -17,7 +17,7 @@ deploy-prepare: $(ALL_PAGES)
 	cp -a extra/* images documents fonts build/out/
 
 deploy: deploy-prepare
-	rsync --delete -r build/out/ barb:/cse/web/homes/antoinek/new/
+	rsync --delete -r build/out/ barb:/cse/web/homes/antoinek/
 
 build/main.css: templates/main.scss
 	@mkdir -p $(dir $@)
