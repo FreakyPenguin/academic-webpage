@@ -62,6 +62,12 @@ div.twocol:after {
   clear: both;
 }
 
+pre {
+  width: 0.98* $width;
+  max-height: 600px;
+  overflow: scroll;
+}
+
 /**************************************/
 /* Mobile layout */
 @media (max-width: $narrow-cutoff) {
@@ -133,4 +139,8 @@ div.announcement {
   font-weight: bold;
   font-size: 110%;
   text-align: center;
+}
+
+pre {
+  background-color: #aaa;
 }
