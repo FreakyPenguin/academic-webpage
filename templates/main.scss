@@ -123,3 +123,14 @@ footer.toplevel {
     padding: 0px 10px;
   }
 }
+
+div.announcement {
+  max-width: 0.95 * $width;
+  margin: 10px auto;
+  padding: 5px;
+  /*border: 1px #888 solid;
+  background-color: #eee;*/
+  font-weight: bold;
+  font-size: 110%;
+  text-align: center;
+}
