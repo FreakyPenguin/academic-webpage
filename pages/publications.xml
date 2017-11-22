@@ -3,6 +3,24 @@
     <h2>Publications</h2>
   </header>
   <ul class="publications">
+      <li id="pub-flextcp"><strong>Lightweight Data Center TCP Packet
+      Processing</strong>
+      <br/>
+      Antoine Kaufmann, Tim Stamler, Simon Peter, Naveen Kr. Sharma,
+      Thomas Anderson, Arvind Krishnamurthy
+      <br/>
+      <i>Under Submission</i>.
+      </li>
+
+      <li id="pub-floem"><strong>Floem: Language, Compiler, and Runtime for
+      Network Applications on Heterogeneous Systems</strong>
+      <br/>
+      Phitchaya Mangpo Phothilimthana, Ming Liu, Antoine Kaufmann,
+      Simon Peter, Rastislav Bodik, Thomas Anderson
+      <br/>
+      <i>Under Submission</i>.
+      </li>
+
       <li id="pub-flexswitch"><strong>Evaluating the Power of Flexible Packet
       Processing for Network Resource Allocation</strong>
       <a href="documents/17nsdi_flexswitch.pdf">[pdf]</a>
