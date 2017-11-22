@@ -2,9 +2,9 @@
   <header>
     <h2>Publications</h2>
   </header>
-  <ul>
-      <li><strong>Evaluating the Power of Flexible Packet Processing
-      for Network Resource Allocation</strong>
+  <ul class="publications">
+      <li id="pub-flexswitch"><strong>Evaluating the Power of Flexible Packet
+      Processing for Network Resource Allocation</strong>
       <a href="documents/17nsdi_flexswitch.pdf">[pdf]</a>
       <br/>
       Naveen Kr. Sharma, Antoine Kaufmann, Thomas Anderson, Changhoon Kim,
@@ -15,7 +15,8 @@
       Implementation</i>, Boston, MA, USA, March 2017.
       </li>
 
-      <li><strong>High Performance Packet Processing with FlexNIC</strong>
+      <li id="pub-flexnic"><strong>High Performance Packet Processing with
+      FlexNIC</strong>
       <a href="documents/16asplos_flexnic.pdf">[pdf]</a>
       <a href="documents/16asplos_flexnic_slides.pdf">[slides]</a>
       <br/>
@@ -28,8 +29,8 @@
       Atlanta, GA, USA, April 2016.
       </li>
 
-      <li><strong>Specifying and Checking File System Crash-Consistency
-      Models</strong>
+      <li id="pub-ferrite"><strong>Specifying and Checking File System
+      Crash-Consistency Models</strong>
       <a href="documents/16asplos_ferrite.pdf">[pdf]</a>
       <br/>
       James Bornholt, Antoine Kaufmann, Jialin Li, Arvind Krishnamurthy,
@@ -41,8 +42,8 @@
       Atlanta, GA, USA, April 2016.
       </li>
 
-      <li><strong>Intelligent NIC Queue Management in the Dragonet Network
-      Stack</strong>
+      <li id="pub-dragonet"><strong>Intelligent NIC Queue Management in the
+      Dragonet Network Stack</strong>
       <a href="documents/15trios_dragonet.pdf">[pdf]</a>
       <br/>
       Kornilios Kourtis, Pravin Shinde, Antoine Kaufmann, Timothy Roscoe
@@ -53,7 +54,8 @@
       Monterey, CA, USA, October 2015.
       </li>
 
-      <li><strong>FlexNIC: Rethinking Network DMA</strong>
+      <li id="pub-flexnic-hotos"><strong>FlexNIC: Rethinking Network
+      DMA</strong>
       <a href="documents/15hotos_flexnic.pdf">[pdf]</a>
       <a href="documents/15hotos_flexnic_slides.pdf">[slides]</a>
       <br/>
@@ -64,7 +66,7 @@
       Kartause Ittingen, Switzerland, May 2015.
       </li>
 
-      <li><strong>Modeling NICs with Unicorn</strong>
+      <li id="pub-unicorn"><strong>Modeling NICs with Unicorn</strong>
       <a href="documents/13plos_unicorn.pdf">[pdf]</a>
       <br/>
       Pravin Shinde, Antoine Kaufmann, Kornilios Kourtis, Timothy Roscoe
@@ -74,7 +76,7 @@
       Nemacolin Woodlands Resort, PA, USA, November 2013.
       </li>
 
-      <li><strong>We need to talk about NICs</strong>
+      <li id="pub-nics"><strong>We need to talk about NICs</strong>
       <a href="documents/13hotos_nic.pdf">[pdf]</a>
       <br/>
       Pravin Shinde, Antoine Kaufmann, Stefan Kaestle, Timothy Roscoe<br/>

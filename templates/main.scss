@@ -144,3 +144,10 @@ div.announcement {
 pre {
   background-color: #aaa;
 }
+
+/* for publication list */
+ul.publications {
+  li:target {
+    background-color: #ddd;
+  }
+}
