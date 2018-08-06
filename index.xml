@@ -1,11 +1,4 @@
 <article>
-  <div class="announcement">
-    I am graduating in Summer 2018 and am on the job market for academic
-    positions. (my <a href="documents/cv.pdf">CV</a>,
-    <a href="documents/research_statement.pdf">research</a>, and
-    <a href="documents/teaching_statement.pdf">teaching</a> statement)
-  </div>
-
   <header>
     <h2>About me</h2>
   </header>
@@ -15,41 +8,54 @@
         <img src="images/square.png" alt="Antoine Kaufmann" />
     </div>
     <div class="twocol-right">
-      <b>Email:</b> <a href="mailto:antoinek@cs.washington.edu">
-        antoinek@cs.washington.edu</a>
+      <b>Email:</b> <a href="mailto:antoinek@mpi-sws.org">
+        antoinek@mpi-sws.org</a>
       <br />
-      <b>Office:</b>
-        <a href="https://www.cs.washington.edu/contact">CSE</a> 591
+      <b>Physical Address:</b>
+        <br />
+        Room 412, Building E1 5
+        <br />
+        Campus Saarbrücken
       <br />
-      <b>Address:</b>
+      <b>Mailing Address:</b>
         <br />
-        University of Washington
+        Antoine Kaufmann
         <br />
-        Computer Science &amp; Engineering
+        Max Planck Institute for Software Systems
         <br />
-        Box 352350
+        Campus E1 5
         <br />
-        Seattle, WA 98195-2350, USA
+        66123 Saarbrücken
+        <br />
+        Germany
     </div>
   </div>
 
   <div>
-      <p>I am currently a PhD student in the
-      <a href="http://syslab.cs.washington.edu">systems lab</a> of the
-      <a href="http://cs.washington.edu">
-          Allen School of Computer Science and Engineering</a> at the University
-        of Washington with
+    <p>I am a research group leader here at MPI SWS.
+    My research interests lie in the general area of operating systems and
+    networks, with a primary focus on the data center.</p>
+
+    <p>Prior to joining MPI SWS in August 2018, I obtained my PhD from the
+    <a href="http://cs.washington.edu"> Allen School of Computer Science and
+      Engineering</a> at the University of Washington.
+    At UW I was part of the <a href="http://syslab.cs.washington.edu">systems
+      lab</a>
+      with
       <a href="http://www.cs.washington.edu/people/faculty/tom/">
-      Tom Anderson</a> as my advisor.
-      In addition I am collaborating closely with
-      <a href="http://www.cs.utexas.edu/~simon/">Simon Peter</a> and
+        Tom Anderson</a>,
       <a href="http://www.cs.washington.edu/people/faculty/arvind">
-      Arvind Krishnamurthy</a>.
-      My research interests lie in the general area of operating systems and
-      networks, with a primary focus on the data center.
+        Arvind Krishnamurthy</a>, and
+      <a href="http://www.cs.utexas.edu/~simon/">Simon Peter</a> (at UT Austin)
+      as my advisors.
+
       </p>
   </div>
-  <div style="clear: both"></div>
+
+  <div class="announcement">
+    I am looking for motivated students (PhD, MSc projects, internships).
+    Send me an email with a brief statement of interest and your CV.
+  </div>
 
   <h2>News</h2>
   <ul>

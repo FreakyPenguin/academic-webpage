@@ -18,16 +18,16 @@ CSS_PLACEHOLDER
 <body>
   <header class="toplevel">
     <h1>Antoine Kaufmann</h1>
-    Ph.D. Student in Computer Science at University of Washington
+    Research Group Leader at the Max Planck Institute for Software Systems
   </header>
 
   <nav class="toplevel" title="Top-level Navigation">
     <ul>
-      <li><a href="https://homes.cs.washington.edu/~antoinek/index.html">Home</a></li>
-      <li><a href="https://homes.cs.washington.edu/~antoinek/blog.html">Blog</a></li>
-      <li><a href="https://homes.cs.washington.edu/~antoinek/projects.html">Research</a></li>
-      <li><a href="https://homes.cs.washington.edu/~antoinek/publications.html">Publications</a></li>
-      <li><a href="https://homes.cs.washington.edu/~antoinek/bio.html">Biography</a></li>
+      <li><a href="https://people.mpi-sws.org/~antoinek/index.html">Home</a></li>
+      <li><a href="https://people.mpi-sws.org/~antoinek/blog.html">Blog</a></li>
+      <li><a href="https://people.mpi-sws.org/~antoinek/projects.html">Research</a></li>
+      <li><a href="https://people.mpi-sws.org/~antoinek/publications.html">Publications</a></li>
+      <li><a href="https://people.mpi-sws.org/~antoinek/bio.html">Biography</a></li>
     </ul>
   </nav>
 
@@ -48,18 +48,16 @@ CSS_PLACEHOLDER
         aria-label="LinkedIn Profile" class="icon">
       <i class="fa fa-linkedin" aria-hidden="true"></i>
     </a>
-    <a href="mailto:antoinek@cs.washington.edu" aria-label="Email Address"
+    <a href="mailto:antoinek@mpi-sws.org" aria-label="Email Address"
         class="icon">
       <i class="fa fa-envelope" aria-hidden="true"></i>
     </a>
-    <a href="https://homes.cs.washington.edu/~antoinek/atom.xml"
+    <a href="https://people.mpi-sws.org/~antoinek/atom.xml"
         aria-label="Atom Feed" class="icon">
       <i class="fa fa-rss" aria-hidden="true"></i>
     </a>
     <br />
-    <a href="https://www.washington.edu">University of Washington</a>
-    &#8212;
-    <a href="https://cs.washington.edu">Computer Science &amp; Engineering</a>
+    <a href="https://www.mpi-sws.org">Max Planck Institute for Software Systems</a>
   </footer>
 </body>
 </html>
