@@ -1,6 +1,6 @@
 # Academic Webpage
 
-Source for my academic webpage at https://homes.cs.washington.edu/~antoinek/
+Source for my academic webpage at https://people.mpi-sws.org/~antoinek/
 
 The whole page is built using lightweight tools, primarily `sblg` and GNU
 `make`.
