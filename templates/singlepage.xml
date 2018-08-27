@@ -18,7 +18,7 @@ CSS_PLACEHOLDER
 <body>
   <header class="toplevel">
     <h1>Antoine Kaufmann</h1>
-    Research Group Leader at the Max Planck Institute for Software Systems
+    Research Group Leader at the Max Planck Institute for Software Systems (MPI-SWS)
   </header>
 
   <nav class="toplevel" title="Top-level Navigation">
@@ -57,7 +57,7 @@ CSS_PLACEHOLDER
       <i class="fa fa-rss" aria-hidden="true"></i>
     </a>
     <br />
-    <a href="https://www.mpi-sws.org">Max Planck Institute for Software Systems</a>
+    <a href="https://www.mpi-sws.org">Max Planck Institute for Software Systems (MPI-SWS)</a>
   </footer>
 </body>
 </html>
