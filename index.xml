@@ -59,11 +59,18 @@
 
   <h2>News</h2>
   <ul>
+    <li>2018-10-10: Mangpo presented our
+      <a href="https://www.usenix.org/system/files/osdi18-phothilimthana.pdf">paper</a>
+      "Floem: A Programming System for NIC-Accelerated Network Applications" at
+      <a href="https://www.usenix.org/conference/osdi18/presentation/phothilimthana"
+        >OSDI'18</a>.</li>
+    <li>2018-08-06: I started at MPI-SWS.</li>
+    <li>2018-07-12: I successfully defended my dissertation.</li>
     <li>2017-03-27: Naveen presented our
       <a href="documents/17nsdi_flexswitch.pdf">paper</a> "Evaluating the Power
       of Flexible Packet Processing for Network Resource Allocation" at
       <a href="https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/sharma"
-        >NSDI</a>.</li>
+        >NSDI'17</a>.</li>
   </ul>
 
   <h2>Blog</h2>
