@@ -14,11 +14,13 @@
 
       <li id="pub-floem"><strong>Floem: Language, Compiler, and Runtime for
       Network Applications on Heterogeneous Systems</strong>
+      <a href="https://www.usenix.org/system/files/osdi18-phothilimthana.pdf">[pdf]</a>
       <br/>
       Phitchaya Mangpo Phothilimthana, Ming Liu, Antoine Kaufmann,
       Simon Peter, Rastislav Bodik, Thomas Anderson
       <br/>
-      <i>Under Submission</i>.
+      <i>13th Symposium on Operating Systems Design and Implementation</i>,
+      Carlsbad, CA, USA, October 2018.
       </li>
 
       <li id="pub-flexswitch"><strong>Evaluating the Power of Flexible Packet
