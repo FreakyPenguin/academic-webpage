@@ -36,6 +36,10 @@ CSS_PLACEHOLDER
   </main>
 
   <footer class="toplevel">
+    <a href="mailto:antoinek@mpi-sws.org" aria-label="Email Address"
+        class="icon">
+      <i class="fa fa-envelope" aria-hidden="true"></i>
+    </a>
     <a href="https://github.com/FreakyPenguin" aria-label="Github Profile"
         class="icon">
       <i class="fa fa-github" aria-hidden="true"></i>
@@ -44,13 +48,13 @@ CSS_PLACEHOLDER
         aria-label="Google Scholar Profile" class="icon">
       <i class="ai ai-fw ai-google-scholar" aria-hidden="true"></i>
     </a>
+    <a href="https://twitter.com/AntoineKau"
+        aria-label="Twitter Profile" class="icon">
+      <i class="fa fa-twitter" aria-hidden="true"></i>
+    </a>
     <a href="https://www.linkedin.com/in/antoine-kaufmann-95859252/"
         aria-label="LinkedIn Profile" class="icon">
       <i class="fa fa-linkedin" aria-hidden="true"></i>
-    </a>
-    <a href="mailto:antoinek@mpi-sws.org" aria-label="Email Address"
-        class="icon">
-      <i class="fa fa-envelope" aria-hidden="true"></i>
     </a>
     <a href="https://people.mpi-sws.org/~antoinek/atom.xml"
         aria-label="Atom Feed" class="icon">
