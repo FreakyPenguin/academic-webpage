@@ -3,13 +3,13 @@
     <h2>Publications</h2>
   </header>
   <ul class="publications">
-      <li id="pub-flextcp"><strong>Lightweight Data Center TCP Packet
-      Processing</strong>
+      <li id="pub-tas"><strong>TCP Acceleration Service</strong>
       <br/>
       Antoine Kaufmann, Tim Stamler, Simon Peter, Naveen Kr. Sharma,
       Thomas Anderson, Arvind Krishnamurthy
       <br/>
-      <i>Under Submission</i>.
+      <i>13th EuroSys Conference</i>,
+      Dresden, Germany, March 2019.
       </li>
 
       <li id="pub-floem"><strong>Floem: Language, Compiler, and Runtime for
