@@ -3,7 +3,7 @@
     <h2>Publications</h2>
   </header>
   <ul class="publications">
-      <li id="pub-tas"><strong>TCP Acceleration Service</strong>
+      <li id="pub-tas"><strong>TCP Acceleration as an OS Service</strong>
       <br/>
       Antoine Kaufmann, Tim Stamler, Simon Peter, Naveen Kr. Sharma,
       Thomas Anderson, Arvind Krishnamurthy
