@@ -4,6 +4,7 @@
   </header>
   <ul class="publications">
       <li id="pub-tas"><strong>TCP Acceleration as an OS Service</strong>
+      <a href="documents/19eurosys_tas.pdf">[pdf]</a>
       <br/>
       Antoine Kaufmann, Tim Stamler, Simon Peter, Naveen Kr. Sharma,
       Thomas Anderson, Arvind Krishnamurthy

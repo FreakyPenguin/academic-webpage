@@ -61,7 +61,7 @@
 
   <h2>News</h2>
   <ul>
-    <li>2018-12-21: Our TCP Acceleration Service paper was accepted in EuroSys'19.</li>
+    <li>2018-12-21: Our  <a href="documents/19eurosys_tas.pdf">TCP Acceleration Service</a> paper was accepted in EuroSys'19.</li>
     <li>2018-11-05: I will serve on the PC for
       <a href="https://sites.google.com/site/sfma2019eurosys/home">SFMA'19</a>
       and EdgeSys'19.
