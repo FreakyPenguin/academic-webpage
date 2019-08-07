@@ -1,0 +1,54 @@
+<article>
+  <header>
+    <h2>Research Group</h2>
+  </header>
+
+  <div class="announcement">
+    I am looking for motivated students (PhD, MSc projects, internships).
+    Send me an email with a brief statement of interest and your CV.
+  </div>
+
+  <h3>Students</h3>
+  <ul>
+    <li><a href="https://people.mpi-sws.org/~mlotfi/">Mehrshad Lotfi
+        Forushani</a></li>
+    <li>Artem Ageev</li>
+  </ul>
+
+  <h3>Interns</h3>
+  <ul>
+    <li>Ahmed Nematallah (UdS, HIWI)</li>
+    <li>Guruprasad Hegde (UdS, masters)</li>
+  </ul>
+
+  <h3>Alumni</h3>
+  <ul>
+    <li>Madhav Tummala (Intern, Spring 2019)</li>
+  </ul>
+
+  <h3>Collaborators</h3>
+  <ul>
+    <li><a href="https://people.mpi-sws.org/~jcmace/">
+        Jonathan Mace</a> (MPI-SWS)</li>
+    <li><a href="http://keonjang.github.io/">
+        Keon Jang</a> (MPI-SWS)</li>
+    <li><a href="http://www.cs.washington.edu/people/faculty/tom">
+        Tom Anderson</a> (University of Washington)</li>
+    <li><a href="https://www.cs.utexas.edu/~simon/">Simon Peter</a>
+      (UT Austin)</li>
+    <li>Tim Stamler (UT Austin)</li>
+  </ul>
+
+  <h3>Past Collaborators</h3>
+  <ul>
+    <li><a href="http://www.cs.washington.edu/people/faculty/arvind">Arvind Krishnamurthy</a>
+      (University of Washington)</li>
+    <li><a href="http://homes.cs.washington.edu/~naveenks/">Naveen Kr. Sharma</a>
+      (University of Washington)</li>
+    <li><a href="https://homes.cs.washington.edu/~xi/">Xi Wang</a> (University
+      of Washington)</li>
+    <li><a href="https://people.eecs.berkeley.edu/~mangpo/">Phitchaya Mangpo
+      Phothilimthana</a> (Berkeley/University of Washington)</li>
+  </ul>
+
+</article>

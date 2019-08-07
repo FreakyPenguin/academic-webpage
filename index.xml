@@ -61,10 +61,19 @@
 
   <h2>News</h2>
   <ul>
-    <li>2018-12-21: Our  <a href="documents/19eurosys_tas.pdf">TCP Acceleration Service</a> paper was accepted in EuroSys'19.</li>
+    <li>2019-03-27: Tim presented
+      <a href="https://tcp-acceleration-service.github.io/">TAS</a> at
+      EuroSys'19 and we have released the source code on
+      <a href="https://github.com/tcp-acceleration-service">github</a>.
+    </li>
+    <li>2018-12-21: Our <a
+        href="https://github.com/tcp-acceleration-service">TCP Acceleration
+        Service</a> <a href="documents/19eurosys_tas.pdf">paper</a> was accepted
+      in EuroSys'19.
+    </li>
     <li>2018-11-05: I will serve on the PC for
       <a href="https://sites.google.com/site/sfma2019eurosys/home">SFMA'19</a>
-      and EdgeSys'19.
+      and <a href="https://edgesys19.cm.in.tum.de/">EdgeSys'19</a>.
     </li>
     <li>2018-10-10: Mangpo presented our
       <a href="https://www.usenix.org/system/files/osdi18-phothilimthana.pdf">paper</a>

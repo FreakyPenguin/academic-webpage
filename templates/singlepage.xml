@@ -18,15 +18,16 @@ CSS_PLACEHOLDER
 <body>
   <header class="toplevel">
     <h1>Antoine Kaufmann</h1>
-    Research Group Leader at the Max Planck Institute for Software Systems (MPI-SWS)
+    Research Group Leader at the Max Planck Institute for Software Systems
   </header>
 
   <nav class="toplevel" title="Top-level Navigation">
     <ul>
       <li><a href="https://people.mpi-sws.org/~antoinek/index.html">Home</a></li>
-      <li><a href="https://people.mpi-sws.org/~antoinek/blog.html">Blog</a></li>
       <li><a href="https://people.mpi-sws.org/~antoinek/projects.html">Research</a></li>
+      <li><a href="https://people.mpi-sws.org/~antoinek/group.html">Group</a></li>
       <li><a href="https://people.mpi-sws.org/~antoinek/publications.html">Publications</a></li>
+      <li><a href="https://people.mpi-sws.org/~antoinek/blog.html">Blog</a></li>
       <li><a href="https://people.mpi-sws.org/~antoinek/bio.html">Biography</a></li>
     </ul>
   </nav>
