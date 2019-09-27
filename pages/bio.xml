@@ -23,7 +23,14 @@
 
 
   <h3>Teaching</h3>
-  Teaching assistant for
+  <ul>
+    <li>Operating Systems, Saarland University (Core Course),
+      <i>Fall 2019</i>.
+      <a href="https://courses.mpi-sws.org/os-ws19/">[course]</a></li>
+  </ul>
+  <br />
+
+  Before MPI-SWS:
   <ul>
       <li>CSEP 551, Computer Operating Systems, UW,
       <i>Winter 2017</i>.
