@@ -13,6 +13,15 @@
       Dresden, Germany, March 2019.
       </li>
 
+      <li id="pub-arxivnodnn"><strong>No DNN Left Behind: Improving Inference in the Cloud with Multi-Tenancy</strong>
+      <a href="documents/19arxiv_dnns.pdf">[pdf]</a>
+      <br/>
+      Amit Samanta, Suhas Shrinivasan, Antoine Kaufmann, Jonathan Mace
+      <br/>
+      <i>arXiv</i>,
+      January 2019.
+      </li>
+
       <li id="pub-floem"><strong>Floem: Language, Compiler, and Runtime for
       Network Applications on Heterogeneous Systems</strong>
       <a href="https://www.usenix.org/system/files/osdi18-phothilimthana.pdf">[pdf]</a>
