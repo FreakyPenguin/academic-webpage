@@ -17,7 +17,7 @@ deploy-prepare: $(ALL_PAGES)
 	cp -a extra/* images documents fonts build/out/
 
 deploy: deploy-prepare
-	rsync --delete -r build/out/ center.mpi-sws.org:/www/sws-homepage/antoinek/
+	rsync --delete -r build/out/ contact.mpi-sws.org:/www/sws-homepage/antoinek/
 
 build/main.css: templates/main.scss
 	@mkdir -p $(dir $@)
