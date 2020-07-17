@@ -2,23 +2,28 @@
   <header>
     <h2>Biography</h2>
   </header>
-  <p>Before starting at UW I was a master's student in the computer
-  science department at ETH Zürich until September 2014. I was being
-  mentored by
-  <a href="http://people.inf.ethz.ch/troscoe/">Timothy Roscoe</a>.
-  The research I was involved in was being done in the context of the
+  <p>I obtained my PhD in Computer Science &amp; Engineering from the University
+  of Washington in Seattle, with
+  <a href="https://www.cs.washington.edu/people/faculty/tom">Tom Anderson</a>
+  and co-advised by <a href="https://www.cs.utexas.edu/~simon/">Simon Peter</a>
+  (at UT Austin).</p>
+
+  <p>Before that, I was a master's student in the computer science department at
+  ETH Zürich until September 2014. I was being mentored by
+  <a href="http://people.inf.ethz.ch/troscoe/">Timothy Roscoe</a>, doing research
+  related to the
   <a href="http://www.barrelfish.org">Barrelfish</a>
   research OS together with other members of the ETH
-  <a href="http://www.systems.ethz.ch">Systems Group</a>.</p>
+  <a href="http://www.systems.ethz.ch">Systems Group</a>.
+  I completed my bachelors degree in computer science at ETH Zürich in
+  2012.</p>
 
-  <p>I completed my bachelors degree in computer science at ETH Zürich in
-  2012 after three years. For more details see my
-  <a href="documents/cv.pdf">CV</a>.</p>
+  <p>For more details see my <a href="documents/cv.pdf">CV</a>.</p>
 
 
   <h3>Personal</h3>
-  <p>My wife teaches English as a second language and we have two cats: Scotch
-    &amp; Whisky.</p>
+  <p>My wife Justine teaches English as a second language. We have two cats,
+    Scotch &amp; Whisky, and a little Border Collie, Tilney.</p>
 
   <h3>Teaching</h3>
   <ul>
