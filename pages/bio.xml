@@ -23,7 +23,12 @@
 
   <h3>Personal</h3>
   <p>My wife Justine teaches English as a second language. We have two cats,
-    Scotch &amp; Whisky, and a little Border Collie, Tilney.</p>
+    Scotch &amp; Whisky, and our newest addition to our familiy, Tilney the little Border Collie:
+  </p>
+
+  <div class="centerpic">
+    <img src="images/tilney.jpg" alt="Tilney Kaufmann" />
+  </div>
 
   <h3>Teaching</h3>
   <ul>

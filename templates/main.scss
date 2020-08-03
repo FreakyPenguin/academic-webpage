@@ -68,6 +68,13 @@ pre {
   overflow: scroll;
 }
 
+div.centerpic {
+  text-align: center;
+  img {
+    max-width: 98%;
+  }
+}
+
 /**************************************/
 /* Mobile layout */
 @media (max-width: $narrow-cutoff) {
