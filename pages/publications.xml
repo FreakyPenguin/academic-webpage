@@ -3,15 +3,15 @@
     <h2>Publications</h2>
   </header>
   <ul class="publications">
-      <li id="pub-arxivclockwork"><strong>Serving DNNs like Clockwork:
+      <li id="pub-clockwork"><strong>Serving DNNs like Clockwork:
       Performance Predictability from the Bottom Up</strong>
-      <a href="documents/20arxiv_clockwork.pdf">[pdf]</a>
+      <a href="documents/20arxiv_clockwork.pdf">[preprint]</a>
       <br/>
       Arpan Gujarati, Reza Karimi, Safya Alzayat, Antoine Kaufmann,
       Ymir Vigfusson, Jonathan Mace
       <br/>
-      <i>arXiv</i>,
-      June 2020.
+      <i>14th Symposium on Operating Systems Design and Implementation</i>,
+      Banff, Canada, November 2020.
       </li>
 
       <li id="pub-tas"><strong>TCP Acceleration as an OS Service</strong>

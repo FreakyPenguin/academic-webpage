@@ -61,6 +61,13 @@
 
   <h2>News</h2>
   <ul>
+    <li>2020-08-15: Our Clockwork paper was accepted by
+      <a href="https://www.usenix.org/conference/osdi20">OSDI'20</a>.
+    </li>
+    <li>2020-08-04: I received $5K in
+      <a href="https://edu.google.com/programs/credits/research/">Google Cloud
+        research credits</a> for our project on modular end-host networking simulations.
+    </li>
     <li>2019-12-20: I will serve on the PC for
       <a href="https://sites.google.com/view/spma2020eurosys/">SPMA'20</a>
       (formerly SFMA),
