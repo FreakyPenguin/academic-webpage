@@ -3,23 +3,37 @@
     <h2>Publications</h2>
   </header>
   <ul class="publications">
+      <li id="pub-simbricks"><strong>Reproducible Host Networking Evaluation
+      with End-to-End Simulation</strong>
+      <a href="https://arxiv.org/abs/2012.14219">[preprint]</a>
+      <br/>
+      Hejing Li, Jialin Li, Keon Jang, Antoine Kaufmann
+      <br/>
+      <i>Under submission</i>.
+      </li>
+
       <li id="pub-clockwork"><strong>Serving DNNs like Clockwork:
       Performance Predictability from the Bottom Up</strong>
-      <a href="documents/20arxiv_clockwork.pdf">[preprint]</a>
+      <a href="documents/20osdi_clockwork.pdf">[pdf]</a>
+      <a href="https://gitlab.mpi-sws.org/cld/ml/clockwork">[code]</a>
       <br/>
       Arpan Gujarati, Reza Karimi, Safya Alzayat, Antoine Kaufmann,
       Ymir Vigfusson, Jonathan Mace
       <br/>
+      In
       <i>14th Symposium on Operating Systems Design and Implementation</i>,
       Banff, Canada, November 2020.
+      <strong>Distinguished Artifact Award</strong>
       </li>
 
       <li id="pub-tas"><strong>TCP Acceleration as an OS Service</strong>
       <a href="documents/19eurosys_tas.pdf">[pdf]</a>
+      <a href="https://github.com/tcp-acceleration-service/tas">[code]</a>
       <br/>
       Antoine Kaufmann, Tim Stamler, Simon Peter, Naveen Kr. Sharma,
       Thomas Anderson, Arvind Krishnamurthy
       <br/>
+      In
       <i>14th EuroSys Conference</i>,
       Dresden, Germany, March 2019.
       </li>
@@ -36,10 +50,12 @@
       <li id="pub-floem"><strong>Floem: Language, Compiler, and Runtime for
       Network Applications on Heterogeneous Systems</strong>
       <a href="https://www.usenix.org/system/files/osdi18-phothilimthana.pdf">[pdf]</a>
+      <a href="https://github.com/mangpo/floem">[code]</a>
       <br/>
       Phitchaya Mangpo Phothilimthana, Ming Liu, Antoine Kaufmann,
       Simon Peter, Rastislav Bodik, Thomas Anderson
       <br/>
+      In
       <i>13th Symposium on Operating Systems Design and Implementation</i>,
       Carlsbad, CA, USA, October 2018.
       </li>
@@ -73,6 +89,7 @@
       <li id="pub-ferrite"><strong>Specifying and Checking File System
       Crash-Consistency Models</strong>
       <a href="documents/16asplos_ferrite.pdf">[pdf]</a>
+      <a href="https://github.com/uwplse/ferrite">[code]</a>
       <br/>
       James Bornholt, Antoine Kaufmann, Jialin Li, Arvind Krishnamurthy,
       Emina Torlak, Xi Wang
@@ -86,6 +103,7 @@
       <li id="pub-dragonet"><strong>Intelligent NIC Queue Management in the
       Dragonet Network Stack</strong>
       <a href="documents/15trios_dragonet.pdf">[pdf]</a>
+      <a href="http://git.barrelfish.org/?p=dragonet">[code]</a>
       <br/>
       Kornilios Kourtis, Pravin Shinde, Antoine Kaufmann, Timothy Roscoe
       <br/>
