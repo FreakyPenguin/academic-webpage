@@ -35,8 +35,14 @@
     <p>I lead the operating systems research group at the
     <a href="https://www.mpi-sws.org/">Max Planck Institute for Software Systems
       (MPI-SWS)</a>.
-    My research interests lie in the general area of operating systems and
-    networks, with a primary focus on the data center.</p>
+    My <a href="projects.html">research</a> centers on the interplay of software
+    and hardware in <strong>post-Moore systems</strong> — specialized
+    systems comprising tightly integrated and co-designed hardware and software
+    components.
+
+    My <a href="projects.html">research</a> centers on the interplay of software
+    and hardware in modern computer systems, with a primary focus on the data
+    center.</p>
 
     <p>Prior to joining MPI-SWS in August 2018, I obtained my PhD from the
     <a href="http://cs.washington.edu"> Allen School of Computer Science and
@@ -52,11 +58,6 @@
       as my advisors.
 
       </p>
-  </div>
-
-  <div class="announcement">
-    I am looking for motivated students (PhD, MSc projects, internships).
-    Send me an email with a brief statement of interest and your CV.
   </div>
 
   <h2>News</h2>
