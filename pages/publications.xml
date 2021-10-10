@@ -12,6 +12,17 @@
       <i>Under submission</i>.
       </li>
 
+      <li id="pub-kugelblitz-ws"><strong>Exploring Domain-Specific
+      Architectures for Network Protocol Processing</strong>
+      <a href="documents/21microcloud_kugelblitz.pdf">[pdf]</a>
+      <br/>
+      Artem Ageev, Mehrshad Lotfi Foroushani, Antoine Kaufmann
+      <br/>
+      In
+      <i>2021 Cloud@MICRO Workshop</i>,
+      Virtual Event, October 2021.
+      </li>
+
       <li id="pub-clockwork"><strong>Serving DNNs like Clockwork:
       Performance Predictability from the Bottom Up</strong>
       <a href="documents/20osdi_clockwork.pdf">[pdf]</a>
