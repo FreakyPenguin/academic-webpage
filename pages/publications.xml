@@ -3,8 +3,8 @@
     <h2>Publications</h2>
   </header>
   <ul class="publications">
-      <li id="pub-simbricks"><strong>Reproducible Host Networking Evaluation
-      with End-to-End Simulation</strong>
+      <li id="pub-simbricks"><strong>Enabling End-to-End Simulation for Host
+      Networking Evaluation using SimBricks</strong>
       <a href="https://arxiv.org/abs/2012.14219">[preprint]</a>
       <br/>
       Hejing Li, Jialin Li, Keon Jang, Antoine Kaufmann
@@ -27,6 +27,7 @@
       Performance Predictability from the Bottom Up</strong>
       <a href="documents/20osdi_clockwork.pdf">[pdf]</a>
       <a href="https://gitlab.mpi-sws.org/cld/ml/clockwork">[code]</a>
+      <a href="https://www.youtube.com/watch?v=wHOpY_MY57Y">[video]</a>
       <br/>
       Arpan Gujarati, Reza Karimi, Safya Alzayat, Antoine Kaufmann,
       Ymir Vigfusson, Jonathan Mace
@@ -40,6 +41,7 @@
       <li id="pub-tas"><strong>TCP Acceleration as an OS Service</strong>
       <a href="documents/19eurosys_tas.pdf">[pdf]</a>
       <a href="https://github.com/tcp-acceleration-service/tas">[code]</a>
+      <a href="https://se.inf.tu-dresden.de/eurosys2019/Video/27_3/Antoine%20Kaufmann.mov">[video]</a>
       <br/>
       Antoine Kaufmann, Tim Stamler, Simon Peter, Naveen Kr. Sharma,
       Thomas Anderson, Arvind Krishnamurthy
