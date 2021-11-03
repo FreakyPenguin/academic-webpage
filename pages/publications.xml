@@ -12,6 +12,15 @@
       <i>Under submission</i>.
       </li>
 
+      <li id="pub-flextoe"><strong>FlexTOE: Flexible TCP Offload with
+      Fine-Grained Parallelism</strong>
+      <a href="https://arxiv.org/abs/2110.10919">[preprint]</a>
+      <br/>
+      Rajath Shashidhara, Timothy Stamler, Antoine Kaufmann, Simon Peter
+      <br/>
+      <i>Under submission</i>.
+      </li>
+
       <li id="pub-kugelblitz-ws"><strong>Exploring Domain-Specific
       Architectures for Network Protocol Processing</strong>
       <a href="documents/21microcloud_kugelblitz.pdf">[pdf]</a>
