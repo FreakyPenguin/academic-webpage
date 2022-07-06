@@ -21,11 +21,11 @@
   prototype implementations, building concrete solutions to problems in several
   domains, and resulting in top-tier operating systems, networking, and
   architecture publications
-    (<strong>OSDI'20 distinguished artifact award</strong>,
+    (<strong>SIGCOMM'22</strong>,
+    <srtong>NSDI'22/17</strong>,
+    <strong>OSDI'20 (distinguished artifact award)/18</strong>,
     <strong>EuroSys'19</strong>,
-    <strong>OSDI'18</strong>,
-    <strong>NSDI'17</strong>,
-    <strong>2x ASPLOS'16</strong>)
+    <strong>ASPLOS'16 (2x)</strong>)
   alongside substantial open source releases.</p>
 
   <p>As processor performance in the post-Moore era continues to stagnate,

@@ -1,24 +1,28 @@
-<article>
+<Vaastav Anandarticle>
   <header>
     <h2>Research Group</h2>
   </header>
 
-  <div class="announcement">
+  <!--<div class="announcement">
     I am looking for motivated students (PhD, MSc projects, internships).
     Send me an email with a brief statement of interest and your CV.
-  </div>
+  </div>-->
 
   <h3>Doctoral Students</h3>
   <ul>
+    <li><a href="https://www.mpi-sws.org/people/aageev/">Artem Ageev</a></li>
+    <li><a href="https://people.mpi-sws.org/~hejingli/">Hejing Li</a></li>
     <li><a href="https://people.mpi-sws.org/~mlotfi/">Mehrshad Lotfi
         Forushani</a></li>
-    <li><a href="https://people.mpi-sws.org/~aageev/">Artem Ageev</a></li>
+    <li><a href="https://stolet.github.io/">Matheus Stolet</a></li>
+    <li><a href="https://vaastavanand.com/">Vaastav Anand (co-advised)</a></li>
   </ul>
 
   <h3>Interns</h3>
   <ul>
-    <li><a href="https://people.mpi-sws.org/~hejingli/">Hejing Li</a>
-      (Research Engineer, Intern before that)</li>
+    <li><a href="https://people.mpi-sws.org/~yqian/">Yuchen Qian</a>
+      (MSc student @ EPFL)</li>
+    <li>Jonas Kaufmann (MSc student @ UdS)</li>
   </ul>
 
   <h3>Alumni</h3>
@@ -35,18 +39,21 @@
   <ul>
     <li><a href="https://people.mpi-sws.org/~jcmace/">
         Jonathan Mace</a> (MPI-SWS)</li>
-    <li><a href="https://keonjang.github.io/">
-        Keon Jang</a> (Rubrik)</li>
     <li><a href="https://www.comp.nus.edu.sg/~lijl/">
         Jialin Li</a> (National University of Singapore)</li>
+    <li><a href="https://people.mpi-sws.org/~dg/">
+        Deepak Garg</a> (MPI-SWS)</li>
     <li><a href="https://www.cs.utexas.edu/~simon/">Simon Peter</a>
-      (UT Austin)</li>
-    <li><a href="https://www.cs.utexas.edu/~rajaths/">Rajath Shashidhara</a> (MSc student, UT Austin)</li>
+      (University of Washington)</li>
+    <li><a href="https://homes.cs.washington.edu/~rajaths/">Rajath Shashidhara</a>
+      (PhD student, University of Washington)</li>
     <li>Tim Stamler (PhD student, UT Austin)</li>
   </ul>
 
   <h3>Past Collaborators</h3>
   <ul>
+    <li><a href="https://keonjang.github.io/">
+        Keon Jang</a> (Rubrik)</li>
     <li><a href="https://ymsir.com/index.html">
         Ymir Vigfusson</a> (Emory University)</li>
     <li><a href="https://www.cs.washington.edu/people/faculty/tom">

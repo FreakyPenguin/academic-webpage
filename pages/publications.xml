@@ -3,22 +3,30 @@
     <h2>Publications</h2>
   </header>
   <ul class="publications">
-      <li id="pub-simbricks"><strong>Enabling End-to-End Simulation for Host
-      Networking Evaluation using SimBricks</strong>
+      <li id="pub-simbricks"><strong>SimBricks: End-to-End Network System
+      Evaluation with Modular Simulation</strong>
       <a href="https://arxiv.org/abs/2012.14219">[preprint]</a>
+      <a href="https://github.com/simbricks">[code]</a>
+      <a href="https://simbricks.github.io/">[www]</a>
       <br/>
-      Hejing Li, Jialin Li, Keon Jang, Antoine Kaufmann
+      Hejing Li, Jialin Li, Antoine Kaufmann
       <br/>
-      <i>Under submission</i>.
+      In
+      <i>ACM SIGCOMM 2022 Conference</i>,
+      Amsterdam, Netherlands, August 2022.
       </li>
 
       <li id="pub-flextoe"><strong>FlexTOE: Flexible TCP Offload with
       Fine-Grained Parallelism</strong>
-      <a href="https://arxiv.org/abs/2110.10919">[preprint]</a>
+      <a href="documents/22nsdi_flextoe.pdf">[pdf]</a>
+      <a href="https://github.com/tcp-acceleration-service/FlexTOE">[code]</a>
+      <a href="https://tcp-acceleration-service.github.io/FlexTOE">[www]</a>
       <br/>
       Rajath Shashidhara, Timothy Stamler, Antoine Kaufmann, Simon Peter
       <br/>
-      <i>Under submission</i>.
+      In
+      <i>19th USENIX Symposium on Networked Systems Design and Implementation</i>,
+      Renton, WA, USA, April 2022.
       </li>
 
       <li id="pub-kugelblitz-ws"><strong>Exploring Domain-Specific
@@ -50,6 +58,7 @@
       <li id="pub-tas"><strong>TCP Acceleration as an OS Service</strong>
       <a href="documents/19eurosys_tas.pdf">[pdf]</a>
       <a href="https://github.com/tcp-acceleration-service/tas">[code]</a>
+      <a href="https://tcp-acceleration-service.github.io/">[www]</a>
       <a href="https://se.inf.tu-dresden.de/eurosys2019/Video/27_3/Antoine%20Kaufmann.mov">[video]</a>
       <br/>
       Antoine Kaufmann, Tim Stamler, Simon Peter, Naveen Kr. Sharma,
@@ -73,6 +82,7 @@
       Network Applications on Heterogeneous Systems</strong>
       <a href="https://www.usenix.org/system/files/osdi18-phothilimthana.pdf">[pdf]</a>
       <a href="https://github.com/mangpo/floem">[code]</a>
+      <a href="https://www.usenix.org/conference/osdi18/presentation/phothilimthana">[audio]</a>
       <br/>
       Phitchaya Mangpo Phothilimthana, Ming Liu, Antoine Kaufmann,
       Simon Peter, Rastislav Bodik, Thomas Anderson
@@ -85,6 +95,7 @@
       <li id="pub-flexswitch"><strong>Evaluating the Power of Flexible Packet
       Processing for Network Resource Allocation</strong>
       <a href="documents/17nsdi_flexswitch.pdf">[pdf]</a>
+      <a href="https://www.youtube.com/watch?v=9Kv50Q04YuI">[video]</a>
       <br/>
       Naveen Kr. Sharma, Antoine Kaufmann, Thomas Anderson, Changhoon Kim,
       Arvind Krishnamurthy, Jacob Nelson, Simon Peter

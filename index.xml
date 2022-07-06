@@ -62,15 +62,31 @@
 
   <h2>News</h2>
   <ul>
+    <li>2022-05-07: Our <a href="https://simbricks.github.io/">SimBricks</a>
+      paper was accepted at
+      <a href="https://conferences.sigcomm.org/sigcomm/2022/">SIGCOMM'22</a>.
+      Hejing will be presenting it in August in Amsterdam!</li>
+    <li>2022-04-04: Rajath presented
+      <a href="https://www.usenix.org/conference/nsdi22/presentation/shashidhara">
+      FlexTOE</a> at
+      <a href="https://www.usenix.org/conference/nsdi22">NSDI'22</a>.</li>
+    <li>2022-02-21:
+    <a href="https://people.mpi-sws.org/~hejingli/">Hejing Li</a> joins us as a
+      doctoral student, after her stint here as a research engineer.</li>
     <li>2021-10-19: I am teaching the winter 2021/22
       <a href="https://courses.mpi-sws.org/os-ws21/">operating systems class</a>
       at UdS.</li>
+    <li>2021-10-18: Artemio presented our ongoing work on <a
+      href="https://people.mpi-sws.org/~antoinek/documents/21microcloud_kugelblitz.pdf">
+      networking DSA design exploration</a> at the
+      <a href="https://cloudmicroworkshop.github.io/">Cloud@MICRO workshop</a>.
+    </li>
     <li>2021-10-01: I am now a tenure-track faculty member at MPI-SWS.</li>
     <li>2021-04-30: SOSP 2021 will be virtual with a new general chair. I am
     staying on as treasurer and am looking forward to co-organizing SOSP 2023 in
     Koblenz.</li>
     <li>2021-03-04: I will serve on the PC for ASPLOS'22.</li>
-    <li>2020-11-04: Clockwork won a distinguished artifact award at OSDI'20.</li>
+    <!--<li>2020-11-04: Clockwork won a distinguished artifact award at OSDI'20.</li>
     <li>2020-08-15: Our Clockwork paper was accepted into
       <a href="https://www.usenix.org/conference/osdi20">OSDI'20</a>.
     </li>
@@ -86,7 +102,7 @@
       <a href="https://www.sigops.org/2019/sosp2021-location/">SOSP 2021 in
         Koblenz</a> jointly with Peter Druschel and Keon Jang.
     </li>
-    <!--<li>2019-12-03:
+    <li>2019-12-03:
       <a href="https://people.mpi-sws.org/~aageev/">Artem Ageev</a> joins my
       group as the second full time PhD student.
     </li>
