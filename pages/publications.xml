@@ -5,6 +5,7 @@
   <ul class="publications">
       <li id="pub-simbricks"><strong>SimBricks: End-to-End Network System
       Evaluation with Modular Simulation</strong>
+      <a href="documents/22sigcomm_simbricks.pdf">[pdf]</a>
       <a href="https://arxiv.org/abs/2012.14219">[preprint]</a>
       <a href="https://github.com/simbricks">[code]</a>
       <a href="https://simbricks.github.io/">[www]</a>
