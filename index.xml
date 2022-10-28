@@ -34,8 +34,10 @@
   <div>
     <p>I am a tenure-track faculty member at the
     <a href="https://www.mpi-sws.org/">Max Planck Institute for Software Systems
-    (MPI-SWS)</a>, where I lead the operating systems
-    <a href="group.html">research group</a>.</p>
+    (MPI-SWS)</a>, where I lead the <a href="group.html">operating systems
+    research group</a>. I also serve in an adjunct faculty role at the
+    <a href="https://dse.in.tum.de/">Chair of Decentralized Systems Engineering</a>
+    at TU Munich.</p>
 
     <p>My <a href="projects.html">research</a> centers on the interplay of
     software and hardware in <strong>post-Moore systems</strong> — specialized
@@ -46,18 +48,18 @@
     at MPI-SWS for three years.
     Prior to joining MPI-SWS in August 2018, I obtained my PhD from the
     <a href="http://cs.washington.edu"> Allen School of Computer Science and
-      Engineering</a> at the University of Washington.
+    Engineering</a> at the University of Washington.
     At UW I was part of the <a href="http://syslab.cs.washington.edu">systems
-      lab</a>
-      with
-      <a href="http://www.cs.washington.edu/people/faculty/tom/">
-        Tom Anderson</a>,
-      <a href="http://www.cs.washington.edu/people/faculty/arvind">
-        Arvind Krishnamurthy</a>, and
-      <a href="http://www.cs.utexas.edu/~simon/">Simon Peter</a> (at UT Austin)
-      as my advisors.
-
-      </p>
+    lab</a> with
+    <a href="http://www.cs.washington.edu/people/faculty/tom/">Tom Anderson</a>,
+    <a href="http://www.cs.washington.edu/people/faculty/arvind">Arvind
+      Krishnamurthy</a>,
+    and <a href="http://www.cs.utexas.edu/~simon/">Simon Peter</a> (at UT
+    Austin) as my advisors. My research career started at ETH Zürich, where I
+      had the opportunity to do research in the
+    <a href="https://systems.ethz.ch/">Systems Group</a> with
+    <a href="https://people.inf.ethz.ch/troscoe/">Mothy Roscoe</a>
+    during my Bachelor and Master studies.</p>
   </div>
 
   <h2>News</h2>
