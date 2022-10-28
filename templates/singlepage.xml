@@ -10,8 +10,8 @@
 CSS_PLACEHOLDER
     --></style>
   <link rel="icon" type="image/png" href="https://www.mpi-sws.org/wp-content/themes/mpi-sws/assets/images/favicon/favicon-32x32.png?ver=1.5.0" />
-  <script src="https://use.fontawesome.com/df48750cc8.js"></script>
-  <link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet" />
+  <link href="https://cdn.mpi-klsb.mpg.de/fontawesome/fontawesome-free-6.1.1-web/css/all.min.css" rel="stylesheet" />
+  <link href="https://cdn.mpi-klsb.mpg.de/google/css/lora-v24.css" rel="stylesheet" />
   <meta name="google-site-verification" content="UYC0MoUzLTPQeJZXUE4S9rl1zKCAAQqsQxlRICKu8Dk" />
 </head>
 
@@ -42,7 +42,7 @@ CSS_PLACEHOLDER
     </a>
     <a href="https://github.com/FreakyPenguin" aria-label="Github Profile"
         class="icon">
-      <i class="fa fa-github" aria-hidden="true"></i>
+      <i class="fab fa-github" aria-hidden="true"></i>
     </a>
     <a href="https://scholar.google.com/citations?user=6CyKrCUAAAAJ&amp;hl=en"
         aria-label="Google Scholar Profile" class="icon">
@@ -50,11 +50,11 @@ CSS_PLACEHOLDER
     </a>
     <a href="https://twitter.com/AntoineKau"
         aria-label="Twitter Profile" class="icon">
-      <i class="fa fa-twitter" aria-hidden="true"></i>
+      <i class="fab fa-twitter" aria-hidden="true"></i>
     </a>
     <a href="https://www.linkedin.com/in/antoine-kaufmann-95859252/"
         aria-label="LinkedIn Profile" class="icon">
-      <i class="fa fa-linkedin" aria-hidden="true"></i>
+      <i class="fab fa-linkedin" aria-hidden="true"></i>
     </a>
     <a href="https://people.mpi-sws.org/~antoinek/atom.xml"
         aria-label="Atom Feed" class="icon">
