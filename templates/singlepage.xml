@@ -19,6 +19,8 @@ CSS_PLACEHOLDER
   <header class="toplevel">
     <h1>Antoine Kaufmann</h1>
     Tenure-Track Faculty Member at the Max Planck Institute for Software Systems
+    <br/>
+    Adjunct Faculty at TU Munich's DS&amp;OS Chair
   </header>
 
   <nav class="toplevel" title="Top-level Navigation">
