@@ -6,6 +6,7 @@
       <li id="pub-simbricks-disaggmem"><strong>Improving Disaggregated System Evaluation
       with Modular End-to-End Simulation</strong>
       <a href="documents/22words_simbricks-disagg.pdf">[pdf]</a>
+      <a href="https://www.youtube.com/watch?v=fSIcPuuI6kk">[video]</a>
       <br/>
       Bin Gao, Hejing Li, Jialin Li, Antoine Kaufmann
       <br/>
@@ -17,9 +18,9 @@
       <li id="pub-simbricks"><strong>SimBricks: End-to-End Network System
       Evaluation with Modular Simulation</strong>
       <a href="documents/22sigcomm_simbricks.pdf">[pdf]</a>
-      <a href="https://arxiv.org/abs/2012.14219">[preprint]</a>
       <a href="https://github.com/simbricks">[code]</a>
       <a href="https://simbricks.github.io/">[www]</a>
+      <a href="https://www.youtube.com/watch?v=F9kO_YSnkCQ">[video]</a>
       <br/>
       Hejing Li, Jialin Li, Antoine Kaufmann
       <br/>
@@ -33,6 +34,7 @@
       <a href="documents/22nsdi_flextoe.pdf">[pdf]</a>
       <a href="https://github.com/tcp-acceleration-service/FlexTOE">[code]</a>
       <a href="https://tcp-acceleration-service.github.io/FlexTOE">[www]</a>
+      <a href="https://www.youtube.com/watch?v=0sRLk2zNrdE">[video]</a>
       <br/>
       Rajath Shashidhara, Timothy Stamler, Antoine Kaufmann, Simon Peter
       <br/>
