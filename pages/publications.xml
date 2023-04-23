@@ -3,6 +3,27 @@
     <h2>Publications</h2>
   </header>
   <ul class="publications">
+      <li id="pub-tardis"><strong>Protected Data Plane OS Using Memory
+      Protection Keys and Lightweight Activation</strong>
+      <a href="https://arxiv.org/abs/2302.14417">[preprint]</a>
+      <br/>
+      Yihan Yang, Zhuobin Huang, Antoine Kaufmann, Jialin Li
+      <br/>
+      <i>Under submission</i>.
+      </li>
+
+      <li id="pub-splitsim-yarch"><strong>SplitSim: Scalable and Parallel Full
+      Data Center System Simulations</strong>
+      <a href="https://www.youtube.com/watch?v=TXZT-4uQxkg">[video]</a>
+      <a href="https://web.mit.edu/yarch2023/poster/77.jpg">[poster]</a>
+      <br/>
+      Hejing Li, Antoine Kaufmann
+      <br/>
+      In
+      <i>The Fifth Young Architect Workshop</i>,
+      Vancouver BC, Canada, March 2023.
+      </li>
+
       <li id="pub-simbricks-disaggmem"><strong>Improving Disaggregated System Evaluation
       with Modular End-to-End Simulation</strong>
       <a href="documents/22words_simbricks-disagg.pdf">[pdf]</a>
