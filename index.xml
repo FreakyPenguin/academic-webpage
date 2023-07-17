@@ -67,6 +67,11 @@
 
   <h2>News</h2>
   <ul>
+    <li>2022-07-14: Millenial was accepted at <a href="https://sosp2023.mpi-sws.org/">SOSP'23</a>.
+      Vaastav will present it in October in Koblenz!</li>
+    <li>2023-07-10: I am teaching the winter 2023/24 seminar/lab on
+      <a href="https://cms.sic.saarland/hwaccel_23">Accelerating Applications
+      with Specialized Hardware</a> at UdS.</li>
     <li>2023-04-05: <a href="https://www.linkedin.com/in/tejas-harith/">Tejas
       Harith</a> will join our group as a doctoral student.</li>
     <li>2023-03-26: Hejing presented her ongoing work on parallelizing existing

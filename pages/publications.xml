@@ -12,14 +12,6 @@
       <i>Under submission</i>.
       </li>
 
-      <li id="pub-millenial"><strong>Millenial: A Toolchain for
-      Highly-Reconfigurable Microservice Applications</strong>
-      <br/>
-      Vaastav Anand, Deepak Garg, Antoine Kaufmann, Jonathan Mace
-      <br/>
-      <i>Under submission</i>.
-      </li>
-
       <li id="pub-tardis"><strong>Protected Data Plane OS Using Memory
       Protection Keys and Lightweight Activation</strong>
       <a href="https://arxiv.org/abs/2302.14417">[preprint]</a>
@@ -27,6 +19,16 @@
       Yihan Yang, Zhuobin Huang, Antoine Kaufmann, Jialin Li
       <br/>
       <i>Under submission</i>.
+      </li>
+
+      <li id="pub-millenial"><strong>Millenial: A Toolchain for
+      Highly-Reconfigurable Microservice Applications</strong>
+      <br/>
+      Vaastav Anand, Deepak Garg, Antoine Kaufmann, Jonathan Mace
+      <br/>
+      In
+      <i>29th ACM Symposium on Operating Systems Principles</i>,
+      Koblenz, Germany, October 2023.
       </li>
 
       <li id="pub-splitsim-yarch"><strong>SplitSim: Scalable and Parallel Full
