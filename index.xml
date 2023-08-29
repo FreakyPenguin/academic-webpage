@@ -35,7 +35,7 @@
   </div>
 
   <div>
-    <p>I am a tenure-track faculty member at the
+    <p>I am a tenure-track faculty member (W2) at the
     <a href="https://www.mpi-sws.org/">Max Planck Institute for Software Systems
     (MPI-SWS)</a>, where I lead the <a href="group.html">operating systems
     research group</a>. I also serve in an adjunct faculty role at the
@@ -67,7 +67,9 @@
 
   <h2>News</h2>
   <ul>
-    <li>2022-07-14: Millenial was accepted at <a href="https://sosp2023.mpi-sws.org/">SOSP'23</a>.
+    <li>2022-07-14:
+      <a href="https://vaastavanand.com/projects/2023_blueprint/">Blueprint</a>
+      was accepted at <a href="https://sosp2023.mpi-sws.org/">SOSP'23</a>.
       Vaastav will present it in October in Koblenz!</li>
     <li>2023-07-10: I am teaching the winter 2023/24 seminar/lab on
       <a href="https://cms.sic.saarland/hwaccel_23">Accelerating Applications
