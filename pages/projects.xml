@@ -19,13 +19,8 @@
 
   <p>My research is practical in nature, taking ideas all the way to full
   prototype implementations, building concrete solutions to problems in several
-  domains, and resulting in top-tier operating systems, networking, and
-  architecture publications
-    (<strong>SIGCOMM'22</strong>,
-    <srtong>NSDI'22/17</strong>,
-    <strong>OSDI'20 (distinguished artifact award)/18</strong>,
-    <strong>EuroSys'19</strong>,
-    <strong>ASPLOS'16 (2x)</strong>)
+  domains, and resulting in top-tier operating systems (SOSP, OSDI, EuroSys),
+  networking (SIGCOMM, NSDI), and architecture (ASPLOS) publications
   alongside substantial open source releases.</p>
 
   <p>As processor performance in the post-Moore era continues to stagnate,
@@ -50,4 +45,52 @@
     <li>Streamlining the evaluation of post-Moore systems.</li>
     <li>Enabling portability and modularity in the post-Moore era.</li>
   </ol>
+
+
+  <h3>Projects</h3>
+  Our group website has an
+  <a href="https://os.mpi-sws.org/projects.html">overview of our research
+  projects</a>.
+
+
+  <h3>Collaborators</h3>
+  <ul>
+    <li><a href="https://dse.in.tum.de/bhatotia/">
+        Pramod Bhatotia</a> (TU Munich)</li>
+    <li><a href="https://people.mpi-sws.org/~jcmace/">
+        Jonathan Mace</a> (Microsoft Research)</li>
+    <li><a href="https://www.comp.nus.edu.sg/~lijl/">
+        Jialin Li</a> (National University of Singapore)</li>
+    <li><a href="https://people.mpi-sws.org/~dg/">
+        Deepak Garg</a> (MPI-SWS)</li>
+    <li><a href="https://www.cs.utexas.edu/~simon/">Simon Peter</a>
+      (University of Washington)</li>
+    <li><a href="https://homes.cs.washington.edu/~rajaths/">Rajath Shashidhara</a>
+      (PhD student, University of Washington)</li>
+    <li><a href="https://sg.linkedin.com/in/yihang-yang-a8a1b41a0">Yihan Yang</a>
+      (PhD student, National University of Singapore)</li>
+  </ul>
+
+  <h3>Past Collaborators</h3>
+  <ul>
+    <li><a href="https://www.linkedin.com/in/tim-stamler-96336392">Tim
+        Stamler</a> (PhD student, UT Austin)</li>
+    <li><a href="https://keonjang.github.io/">
+        Keon Jang</a> (Rubrik)</li>
+    <li><a href="https://ymsir.com/index.html">
+        Ymir Vigfusson</a> (Emory University)</li>
+    <li><a href="https://www.cs.washington.edu/people/faculty/tom">
+        Tom Anderson</a> (University of Washington)</li>
+    <li><a href="https://www.cs.washington.edu/people/faculty/arvind">
+        Arvind Krishnamurthy</a> (University of Washington)</li>
+    <li><a href="https://homes.cs.washington.edu/~naveenks/">Naveen Kr. Sharma</a>
+      (University of Washington)</li>
+    <li><a href="https://homes.cs.washington.edu/~xi/">Xi Wang</a> (University
+      of Washington)</li>
+    <li><a href="https://people.eecs.berkeley.edu/~mangpo/">Phitchaya Mangpo
+      Phothilimthana</a> (Berkeley/University of Washington)</li>
+  </ul>
+
+
+
 </article>

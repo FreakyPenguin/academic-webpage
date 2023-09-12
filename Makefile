@@ -1,4 +1,4 @@
-PAGES= index blog projects publications bio group
+PAGES= index blog projects publications bio
 
 BLOGS= $(basename $(wildcard blogs/*.xml))
 BLOG_PAGES= $(addsuffix .html,$(BLOGS))
