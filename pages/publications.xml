@@ -21,13 +21,13 @@
       <i>Under submission</i>.
       </li>
 
-      <li id="pub-millenial"><strong>Millenial: A Toolchain for
+      <li id="pub-blueprint"><strong>Blueprint: A Toolchain for
       Highly-Reconfigurable Microservice Applications</strong>
       <br/>
       Vaastav Anand, Deepak Garg, Antoine Kaufmann, Jonathan Mace
       <br/>
       In
-      <i>29th ACM Symposium on Operating Systems Principles</i>,
+      <i>29th ACM Symposium on Operating Systems Principles (SOSP)</i>,
       Koblenz, Germany, October 2023.
       </li>
 
@@ -51,7 +51,8 @@
       Bin Gao, Hejing Li, Jialin Li, Antoine Kaufmann
       <br/>
       In
-      <i>3rd Workshop On Resource Disaggregation and Serverless Computing</i>,
+      <i>3rd Workshop On Resource Disaggregation and Serverless Computing
+      (WORDS)</i>,
       November 2022.
       </li>
 
@@ -65,7 +66,7 @@
       Hejing Li, Jialin Li, Antoine Kaufmann
       <br/>
       In
-      <i>ACM SIGCOMM 2022 Conference</i>,
+      <i>ACM SIGCOMM 2022 Conference (SIGCOMM)</i>,
       Amsterdam, Netherlands, August 2022.
       </li>
 
@@ -79,7 +80,8 @@
       Rajath Shashidhara, Timothy Stamler, Antoine Kaufmann, Simon Peter
       <br/>
       In
-      <i>19th USENIX Symposium on Networked Systems Design and Implementation</i>,
+      <i>19th USENIX Symposium on Networked Systems Design and Implementation
+      (NSDI)</i>,
       Renton, WA, USA, April 2022.
       </li>
 
@@ -104,7 +106,8 @@
       Ymir Vigfusson, Jonathan Mace
       <br/>
       In
-      <i>14th Symposium on Operating Systems Design and Implementation</i>,
+      <i>14th Symposium on Operating Systems Design and Implementation
+      (OSDI)</i>,
       Banff, Canada, November 2020.
       <strong>Distinguished Artifact Award</strong>
       </li>
@@ -142,7 +145,8 @@
       Simon Peter, Rastislav Bodik, Thomas Anderson
       <br/>
       In
-      <i>13th Symposium on Operating Systems Design and Implementation</i>,
+      <i>13th Symposium on Operating Systems Design and Implementation
+      (OSDI)</i>,
       Carlsbad, CA, USA, October 2018.
       </li>
 
@@ -155,8 +159,9 @@
       Arvind Krishnamurthy, Jacob Nelson, Simon Peter
       <br/>
       In
-      <i>14th Symposium on Networked Systems Design and
-      Implementation</i>, Boston, MA, USA, March 2017.
+      <i>14th Symposium on Networked Systems Design and Implementation
+      (NSDI)</i>,
+      Boston, MA, USA, March 2017.
       </li>
 
       <li id="pub-flexnic"><strong>High Performance Packet Processing with
@@ -169,7 +174,7 @@
       <br/>
       In
       <i>21st International Conference on Architectural Support for
-      Programming Languages and Operating Systems</i>,
+      Programming Languages and Operating Systems (ASPLOS)</i>,
       Atlanta, GA, USA, April 2016.
       </li>
 
@@ -183,7 +188,7 @@
       <br/>
       In
       <i>21st International Conference on Architectural Support for
-      Programming Languages and Operating Systems</i>,
+      Programming Languages and Operating Systems (ASPLOS)</i>,
       Atlanta, GA, USA, April 2016.
       </li>
 
@@ -196,7 +201,7 @@
       <br/>
       In
       <i>2015 International Conference on Timely Results in Operating
-      Systems</i>,
+      Systems (TRIOS)</i>,
       Monterey, CA, USA, October 2015.
       </li>
 
@@ -208,7 +213,7 @@
       Antoine Kaufmann, Simon Peter, Thomas Anderson, Arvind Krishnamurthy
       <br/>
       In
-      <i>15th Workshop on Hot Topics in Operating Systems</i>,
+      <i>15th Workshop on Hot Topics in Operating Systems (HotOS)</i>,
       Kartause Ittingen, Switzerland, May 2015.
       </li>
 
@@ -218,7 +223,8 @@
       Pravin Shinde, Antoine Kaufmann, Kornilios Kourtis, Timothy Roscoe
       <br/>
       In
-      <i>7th Workshop on Programming Languages and Operating Systems</i>,
+      <i>7th Workshop on Programming Languages and Operating Systems
+      (PLOS)</i>,
       Nemacolin Woodlands Resort, PA, USA, November 2013.
       </li>
 
@@ -226,7 +232,7 @@
       <a href="documents/13hotos_nic.pdf">[pdf]</a>
       <br/>
       Pravin Shinde, Antoine Kaufmann, Stefan Kaestle, Timothy Roscoe<br/>
-      In <i>14th Workshop on Hot Topics in Operating Systems</i>,
+      In <i>14th Workshop on Hot Topics in Operating Systems (HotOS)</i>,
       Santa Ana Pueblo, NM, USA, May 2013.</li>
   </ul>
 
