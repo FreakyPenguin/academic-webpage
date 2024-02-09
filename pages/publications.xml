@@ -3,6 +3,26 @@
     <h2>Publications</h2>
   </header>
   <ul class="publications">
+      <li id="pub-splitsim">
+      <strong>SplitSim: Large-Scale Simulations for Evaluating Network Systems
+      Research</strong>
+      <a href="https://arxiv.org/abs/2402.05312">[preprint]</a>
+      <br/>
+      Hejing Li, Praneeth Balasubramanian, Marvin Meiers, Jialin Li, Antoine Kaufmann
+      <br/>
+      <i>Under submission</i>.
+      </li>
+
+      <li id="pub-virtuoso">
+      <strong>Virtuoso: High Resource Utilization and μs-scale Performance
+      Isolation in a Shared Virtual Machine TCP Network Stack</strong>
+      <a href="https://arxiv.org/abs/2309.14016">[preprint]</a>
+      <br/>
+      Matheus Stolet, Liam Arzola, Antoine Kaufmann, Simon Peter
+      <br/>
+      <i>Under submission</i>.
+      </li>
+
       <li id="pub-kugelblitz"><strong>Kugelblitz: Streamlining Reconfigurable
       Packet Processing Pipeline Design and Evaluation</strong>
       <a href="https://arxiv.org/abs/2305.08435">[preprint]</a>

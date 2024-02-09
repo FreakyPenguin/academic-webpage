@@ -39,8 +39,8 @@
     <a href="https://www.mpi-sws.org/">Max Planck Institute for Software Systems
     (MPI-SWS)</a>, where I lead the <a href="https://os.mpi-sws.org/">operating
     systems research group</a>. I also serve in an adjunct faculty role at the
-    <a href="https://dse.in.tum.de/">Chair of Decentralized Systems Engineering</a>
-    at TU Munich.</p>
+    <a href="https://dse.in.tum.de/">Chair of Distributed Systems and Operating
+    Systems</a> at TU Munich.</p>
 
     <p>My <a href="projects.html">research</a> centers on the interplay of
     software and hardware in <strong>post-Moore systems</strong> — specialized
@@ -67,7 +67,12 @@
 
   <h2>News</h2>
   <ul>
-    <li>2022-07-14:
+    <li>2023-10-26:
+      We wrapped up a successful <a href="https://sosp2023.mpi-sws.org/">SOSP'23</a>,
+      co-organizing it with many volunteers from the OS group, Vaastav
+      presenting a paper, and Matheus and Jonas winning 1st and 3rd place in the
+      student research competition!</li>
+    <li>2023-07-14:
       <a href="https://vaastavanand.com/projects/2023_blueprint/">Blueprint</a>
       was accepted at <a href="https://sosp2023.mpi-sws.org/">SOSP'23</a>.
       Vaastav will present it in October in Koblenz!</li>
